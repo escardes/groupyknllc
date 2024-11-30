@@ -45,7 +45,7 @@ const Footer = () => {
         </div>
       </footer>
       <div className='legal'>
-        <span>&copy; {new Date().getFullYear()} GroupYknLLC. designed By Eureka Kabeya.</span>
+        <span>&copy; {new Date().getFullYear()} GROUPYKNLLC. designed By Eureka Kabeya.</span>
       </div>
     </>
   )
