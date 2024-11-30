@@ -182,14 +182,14 @@ export const location = [
 export const team = [
   {
     list: "50",
-    cover: "../images/customer/team-1.jpg",
+    cover: "../images/customer/managerPic.jpeg",
     address: "Liverpool, Canada",
     name: "Sargam S. Singh",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
   },
   {
     list: "70",
-    cover: "../images/customer/team-2.jpg",
+    cover: "../images/customer/eurekaProfile.jpeg",
     address: "Montreal, Canada",
     name: "Harijeet M. Siller",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
