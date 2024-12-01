@@ -189,7 +189,7 @@ export const team = [
   },
   {
     list: "70",
-    cover: "../images/customer/eurekaProfile1.jpeg",
+    cover: "../images/customer/team-2.jpg",
     address: "Montreal, Canada",
     name: "Harijeet M. Siller",
     icon: [<i class='fa-brands fa-facebook-f'></i>, <i class='fa-brands fa-linkedin'></i>, <i class='fa-brands fa-twitter'></i>, <i class='fa-brands fa-instagram'></i>],
