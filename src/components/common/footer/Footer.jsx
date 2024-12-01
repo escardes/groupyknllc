@@ -47,9 +47,10 @@ const Footer = () => {
       <div className='legal'>
         <span>Copyright &copy; {new Date().getFullYear()} GROUPYKN LLC. designed By Eureka Kabeya.</span>
         <div className="social">
-          <i class="fa-brands fa-instagram"></i> 
-          <i class="fa-brands fa-twitter"></i>
-          <i class="fa-brands fa-facebook"></i>
+          <div className="fa-brands fa-instagram"></div> 
+          <span className="fa-brands fa-twitter"></span>
+          <i className="fa-brands fa-facebook"></i>
+          <i class="fa-brands fa-tiktok"></i>
         </div>
       </div>
     </>
